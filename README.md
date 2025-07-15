@@ -17,4 +17,4 @@ Business Intelligence Leader | Data Scientist | Former Investigative Reporter
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
---## 📊 Featured Projects
+<!-- ## 📊 Featured Projects -->
